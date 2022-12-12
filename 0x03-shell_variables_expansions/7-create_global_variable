@@ -1,2 +1,3 @@
 #!/bin/bash
-export 2#$BEST="School"
+export VAR="BEST School"
+

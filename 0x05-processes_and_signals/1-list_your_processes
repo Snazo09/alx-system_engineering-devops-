@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-#s auxf
+#list all pids
+
+ps -auxf
